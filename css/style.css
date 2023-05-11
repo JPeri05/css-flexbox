@@ -1,0 +1,89 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+.page-title {
+    font-size: 50px;
+}
+.property-title {
+    font-size: 45px;
+}
+p {
+    font-size: 25px;
+}
+div {
+    color: aliceblue;
+    font-size: 30px;
+}
+.parent-box {
+    display: flex;
+    background-color: white;
+    height: 150pt;
+    margin: 10pt;
+    padding: 10pt;
+}
+.child-box1 {
+    border-color: black;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 3.5;
+    margin: 30pt 30pt 20pt 45pt;
+    padding: 10pt;
+    background-color: red;
+}
+.child-box2 {
+    border-color: black;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 3.5;
+    margin: 30pt 50pt 20pt 50pt;
+    padding: 10pt;
+    background-color: green;
+}
+.child-box3 {
+    border-color: black;
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 3.5;
+    margin: 30pt 50pt 20pt 50pt;
+    padding: 10pt;
+    background-color: blue
+}
+.box-text {
+    margin-top: -1pt;
+    padding-left: 1pt;
+    text-align: left;
+    font-size: 20px;
+    color: black;
+    position: absolute;
+}
+.box-text1 {
+    color: black;
+    font-size: 15px;
+    position: absolute;
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 170px;
+}
+.box-text2 {
+    color: black;
+    font-size: 15px;
+    position: absolute;
+    text-align: center;
+    padding-left: 309px;
+    padding-top: 170px;
+}
+.box-text3 {
+    color: black;
+    font-size: 15px;
+    position: absolute;
+    text-align: center;
+    padding-left: 565px;
+    padding-top: 170px;
+}
